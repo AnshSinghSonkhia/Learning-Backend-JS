@@ -8,7 +8,7 @@
 - Route Parameters
 - Templates
 - Static Files
-- HTTP Methods: GET & POST
+- HTTP Methods: [GET & POST](https://github.com/AnshSinghSonkhia/Learning-Backend-JS/blob/main/Learning-NodeJS/gyan.md#different-routing-methods-of-routing)
 - Error Handling
 
 # Node VS Express - What's the real deal?
